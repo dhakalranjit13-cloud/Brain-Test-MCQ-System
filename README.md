@@ -79,6 +79,6 @@ gcc src/main.c -o quiz
 ./quiz
 ```
 
-## 👨‍💻 Author
+## 🧑‍💻 Author
 
-**Ranjit Dhakal**
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00599C&center=true&vCenter=true&width=400&lines=Ranjit+Dhakal" />
