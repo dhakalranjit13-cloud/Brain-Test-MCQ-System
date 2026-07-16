@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/File%20Handling-success?style=for-the-badge">
 <img src="https://img.shields.io/badge/Console%20Application-blue?style=for-the-badge">
-<img src="https://img.shields.io/github/license/dhakalranjit13-cloud/Brain-Test-MCQ-System?style=for-the-badge">
+<img src="https://img.shields.io/github/LICENSE/dhakalranjit13-cloud/Brain-Test-MCQ-System?style=for-the-badge">
 </p>
 
 ---
