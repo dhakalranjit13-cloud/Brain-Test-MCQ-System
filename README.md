@@ -18,6 +18,18 @@
 Brain Test MCQ System is a console-based quiz application written in **C**. It provides both **User** and **Admin** modes with file handling, randomized questions, an endless quiz mode, and a scoreboard.
 
 ## ✨ Features
+
+- 👤 User Panel
+- 🔐 Admin Login
+- ➕ Add Questions
+- ✏️ Edit Questions
+- 🗑 Delete Questions
+- 📚 View Questions
+- 🎯 Quiz Mode
+- ♾ Endless Quiz Mode
+- 🏆 Scoreboard
+- 🔀 Randomized Questions
+
 ## 📸 Screenshots
 
 ### 🏠 Main Menu
@@ -39,17 +51,6 @@ Brain Test MCQ System is a console-based quiz application written in **C**. It p
 ### 🔐 Admin Panel
 
 ![Admin Panel](images/admin.png)
-
-- 👤 User Panel
-- 🔐 Admin Login
-- ➕ Add Questions
-- ✏️ Edit Questions
-- 🗑 Delete Questions
-- 📚 View Questions
-- 🎯 Quiz Mode
-- ♾ Endless Quiz Mode
-- 🏆 Scoreboard
-- 🔀 Randomized Questions
 
 ## 🛠 Tech Stack
 
