@@ -27,7 +27,7 @@ Brain Test MCQ System is a console-based quiz application written in **C**. It p
 - 📚 View Questions
 - 🎯 Quiz Mode
 - ♾ Endless Quiz Mode
-- 🏆 Scoreboard
+- 🏆 Scorecard
 - 🔀 Randomized Questions
 
 ## 📸 Screenshots
@@ -44,9 +44,9 @@ Brain Test MCQ System is a console-based quiz application written in **C**. It p
 
 ![Endless Quiz](images/endless.png)
 
-### 🏆 Scoreboard
+### 🏆 Scorecard
 
-![Scoreboard](images/scoreboard.png)
+![Scoreboard](images/scorecard.png)
 
 ### 🔐 Admin Panel
 
